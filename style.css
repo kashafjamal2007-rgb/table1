@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction:column ;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 15px 30px;
+    font-size: 17px;
+    padding: 8px;
+}
+.fullcontent{
+    /* background-color: aliceblue; */
+    padding: 5px 20px 15px 20px;
+    border: solid 1px lightgray;
+    border-radius: 5px;
+    background-image: url(img.1/pexels-martin-de-arriba-25131490-7813915.jpg);
+    background-size: cover;
+    background-position: center center;
+  
+}
+.Please{
+    text-align: center;
+}
+.Personal{
+    text-align: center;
+}
+*{
+    box-sizing: border-box;
+   
+ }
+ form{
+    padding: 10px;
+ }
